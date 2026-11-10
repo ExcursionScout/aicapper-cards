@@ -1,0 +1,7 @@
+AI CAPPER — OFFICIAL CARD 2026-11-09-card1
+Built: 2026-11-09T23:50:24+00:00
+Salt: 68852735bab948d5d2416a49db9698d1
+Model: points v3
+
+#7 | logged 2026-11-09T23:50:23+00:00 | NBA | Naz Reid UNDER 19.5 points (-112 @ pinnacle) 1u | model points v3
+#8 | logged 2026-11-09T23:50:23+00:00 | NBA | AJ Dybantsa UNDER 16.5 points (-114 @ betrivers) 1u | model points v3
