@@ -1,0 +1,9 @@
+AICAPPR — OFFICIAL CARD 2026-11-10-card3
+Built: 2026-11-11T01:50:10+00:00
+Salt: 569adaec0aea056e32ee6692e467fee7
+Model: points v4
+
+#16 | logged 2026-11-11T01:50:10+00:00 | NBA | Khaman Maluach UNDER 6.5 points (-108 @ draftkings) 1u | model points v4
+#17 | logged 2026-11-11T01:50:10+00:00 | NBA | Ace Bailey UNDER 17.5 points (-104 @ draftkings) 1u | model points v4
+#18 | logged 2026-11-11T01:50:10+00:00 | NBA | Darryn Peterson UNDER 19.5 points (+104 @ pinnacle) 1u | model points v4
+#19 | logged 2026-11-11T01:50:10+00:00 | NBA | Rui Hachimura UNDER 16.5 points (-113 @ williamhill_us) 1u | model points v4
