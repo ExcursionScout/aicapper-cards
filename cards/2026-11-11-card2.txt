@@ -1,0 +1,8 @@
+AICAPPR — OFFICIAL CARD 2026-11-11-card2
+Built: 2026-11-11T23:50:20+00:00
+Salt: b829fe5be7bf1d98a90d8c15e9a38ac5
+Model: points v4
+
+#24 | logged 2026-11-11T23:50:20+00:00 | NBA | Jordan Walsh UNDER 4.5 points (-105 @ hardrockbet) 1u | model points v4
+#25 | logged 2026-11-11T23:50:20+00:00 | NBA | Derrick White UNDER 14.5 points (-105 @ espnbet) 1u | model points v4
+#26 | logged 2026-11-11T23:50:20+00:00 | NBA | AJ Dybantsa UNDER 17.5 points (+100 @ fanduel) 1u | model points v4

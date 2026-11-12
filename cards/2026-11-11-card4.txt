@@ -1,0 +1,8 @@
+AICAPPR — OFFICIAL CARD 2026-11-11-card4
+Built: 2026-11-12T00:50:21+00:00
+Salt: ae23ddf26ac94d7510145b90f648e00e
+Model: points v4
+
+#28 | logged 2026-11-12T00:50:21+00:00 | NBA | Brayden Burries UNDER 12.5 points (-106 @ draftkings) 1u | model points v4
+#29 | logged 2026-11-12T00:50:21+00:00 | NBA | Carter Bryant UNDER 5.5 points (-120 @ draftkings) 1u | model points v4
+#30 | logged 2026-11-12T00:50:21+00:00 | NBA | Luke Kornet UNDER 4.5 points (-109 @ draftkings) 1u | model points v4

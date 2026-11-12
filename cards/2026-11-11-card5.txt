@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-11-card5
+Built: 2026-11-12T01:50:12+00:00
+Salt: 6a6eae0e696e7767ec6c32d329ad321d
+Model: points v4
+
+#31 | logged 2026-11-12T01:50:12+00:00 | NBA | Jase Richardson UNDER 7.5 points (+100 @ fanduel) 1u | model points v4
+#32 | logged 2026-11-12T01:50:12+00:00 | NBA | Josh Okogie UNDER 5.5 points (-118 @ draftkings) 1u | model points v4
