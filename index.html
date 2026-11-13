@@ -1,37 +1,209 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AICappr cards</title><style>
-body{background:#0f1117;color:#e8e9ee;font:15px/1.5 -apple-system,system-ui,sans-serif;margin:0;padding:24px 16px;max-width:980px;margin:auto}
-a{color:#ff8a3d} code{font-size:12px;word-break:break-all} table{border-collapse:collapse;width:100%}
-td,th{border-bottom:1px solid #2a2e3a;padding:8px 6px;text-align:left;vertical-align:top} th{color:#9aa0ad;font-weight:600}
-.box{background:#171a23;border:1px solid #2a2e3a;border-radius:10px;padding:14px 16px;margin:16px 0}</style></head><body>
+body{background:#0f1117;color:#e8e9ee;font:15px/1.5 -apple-system,system-ui,sans-serif;margin:0;padding:24px 16px;max-width:760px;margin:auto}
+a{color:#ff8a3d} code{font-size:12px;word-break:break-all}
+.box{background:#171a23;border:1px solid #2a2e3a;border-radius:10px;padding:14px 16px;margin:16px 0}
+.box ol{margin:8px 0 0;padding-left:20px} .box li{margin:4px 0}
+.note{color:#9aa0ad;font-size:13px}
+.card{background:#171a23;border:1px solid #2a2e3a;border-radius:10px;padding:14px 16px;margin:12px 0}
+.chead{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px}
+.plays{margin:0 0 10px;padding-left:18px} .plays li{margin:2px 0}
+.hash{font-size:12px;color:#9aa0ad;margin-bottom:8px}
+.dl a{margin-right:16px;font-size:14px}</style></head><body>
 <h1>AICappr — published cards</h1>
-<p>Every card's SHA-256 fingerprint is posted on X (<a href="https://x.com/AICappr">@AICappr</a>) <b>before</b> its games tip off.
-The card file is published here only <b>after</b> the games, with the results.</p>
-<div class="box"><b>Check a card yourself.</b> Download its file, then on a Mac or Linux terminal run
-<code>shasum -a 256 2026-11-09-card1.txt</code> (Windows: <code>certutil -hashfile 2026-11-09-card1.txt SHA256</code>).
-The result must match the fingerprint posted on X before the games. Each card also includes a random salt, so the fingerprint
-can't be guessed from the picks. Where there's a <i>proof</i> file, it's an OpenTimestamps anchor in the Bitcoin blockchain:
-check it at <a href="https://opentimestamps.org">opentimestamps.org</a>.</div>
-<table><thead><tr><th>Game date</th><th>Card</th><th>SHA-256</th><th>Bitcoin proof</th></tr></thead><tbody>
-<tr><td>2026-11-12</td><td><a href="cards/2026-11-12-card3.txt">2026-11-12-card3</a></td><td><code>632b38f325bf0bb60b2c3ffa2f9e55977173b9612bf6b27db7afe092207e4525</code></td><td><a href="cards/2026-11-12-card3.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-12</td><td><a href="cards/2026-11-12-card2.txt">2026-11-12-card2</a></td><td><code>6eb1191533142c12f6c1d8e7823859a88d9850a32dbe45fb88ecfea080e5bc37</code></td><td><a href="cards/2026-11-12-card2.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-12</td><td><a href="cards/2026-11-12-card1.txt">2026-11-12-card1</a></td><td><code>5aa9fe4f98e32ab39dedb0a77307417b29a290966d4c5d271dc0458a56fda6d8</code></td><td><a href="cards/2026-11-12-card1.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-11</td><td><a href="cards/2026-11-11-card5.txt">2026-11-11-card5</a></td><td><code>08431183baaebac93508fa69584eb60c896d7dc712612069ff9a9d99a35619a4</code></td><td><a href="cards/2026-11-11-card5.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-11</td><td><a href="cards/2026-11-11-card4.txt">2026-11-11-card4</a></td><td><code>56df948a053761753da71c2beaf4f697c8a810f6b98bab298fe2b82759eafe74</code></td><td><a href="cards/2026-11-11-card4.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-11</td><td><a href="cards/2026-11-11-card3.txt">2026-11-11-card3</a></td><td><code>d6587dc8cc9b21c853e44588a3f6512840eb30da412a065ab6bcd1e54e59a05a</code></td><td><a href="cards/2026-11-11-card3.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-11</td><td><a href="cards/2026-11-11-card2.txt">2026-11-11-card2</a></td><td><code>0e1dda0828c1b6a6656647cd97165ec54e7dac6dff4b6853eb64fd6e0c6a2a04</code></td><td><a href="cards/2026-11-11-card2.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-11</td><td><a href="cards/2026-11-11-card1.txt">2026-11-11-card1</a></td><td><code>36b6fce37f6ef42d16128d35bf1c4c6f6bbeb380c1b07ff1bdf174af26c831da</code></td><td><a href="cards/2026-11-11-card1.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-10</td><td><a href="cards/2026-11-10-card6.txt">2026-11-10-card6</a></td><td><code>23c5addead8b0b913868163b81cee9900e7bdac335c329fb157f6a797388c64e</code></td><td><a href="cards/2026-11-10-card6.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-10</td><td><a href="cards/2026-11-10-card5.txt">2026-11-10-card5</a></td><td><code>40c8f7ecda9cfae9a5df2544426f15fe52ac54f24335c8ecf12471b8cc3f790a</code></td><td><a href="cards/2026-11-10-card5.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-10</td><td><a href="cards/2026-11-10-card4.txt">2026-11-10-card4</a></td><td><code>e6fb3f503534cfae0f68d4ee94132e87e7926320c4f61997e179b70e2df9fad8</code></td><td><a href="cards/2026-11-10-card4.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-10</td><td><a href="cards/2026-11-10-card3.txt">2026-11-10-card3</a></td><td><code>98d7afb87d392af346ed92f1c83967a0ca8af0e3d0ee1f2689116de5e3dffc67</code></td><td><a href="cards/2026-11-10-card3.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-10</td><td><a href="cards/2026-11-10-card2.txt">2026-11-10-card2</a></td><td><code>73fd36c56c36094ac067b9a7c5a4baae70923545c5697ceef1023f76cb3bb49c</code></td><td><a href="cards/2026-11-10-card2.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-10</td><td><a href="cards/2026-11-10-card1.txt">2026-11-10-card1</a></td><td><code>123339ab1fecbea6eb658254232caa94d611fbf2d1a10f9db24019a533f2fcbd</code></td><td><a href="cards/2026-11-10-card1.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-09</td><td><a href="cards/2026-11-09-card6.txt">2026-11-09-card6</a></td><td><code>b2b6214d0964038932f2f6b8b003161dc4d2956350f69d69a63d5e9822a14a3b</code></td><td><a href="cards/2026-11-09-card6.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-09</td><td><a href="cards/2026-11-09-card5.txt">2026-11-09-card5</a></td><td><code>a20e33940d32f522e4f4503eb2ee7dd064ffd2930201d97029415f5b845279de</code></td><td><a href="cards/2026-11-09-card5.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-09</td><td><a href="cards/2026-11-09-card4.txt">2026-11-09-card4</a></td><td><code>70e72a772771b13cf72fcc98ae407f05b645ea33a86eb05f90f31ea170d8f5b1</code></td><td><a href="cards/2026-11-09-card4.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-09</td><td><a href="cards/2026-11-09-card3.txt">2026-11-09-card3</a></td><td><code>b4bc3ad9836b7cd197abc0719391905c2ff0c3bb27a2c75df2e97e6e4258d7bc</code></td><td><a href="cards/2026-11-09-card3.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-09</td><td><a href="cards/2026-11-09-card2.txt">2026-11-09-card2</a></td><td><code>49995d60eaada3d391f745775d4760ff86a10b2202f3ee0ee8e7629bfec20456</code></td><td><a href="cards/2026-11-09-card2.txt.ots">proof</a></td></tr>
-<tr><td>2026-11-09</td><td><a href="cards/2026-11-09-card1.txt">2026-11-09-card1</a></td><td><code>87a439ffe153b6e29c0f419249cc2f2680ce543289fa8bf8903bb24582803825</code></td><td><a href="cards/2026-11-09-card1.txt.ots">proof</a></td></tr>
-</tbody></table>
+<p>Every card's SHA-256 fingerprint is posted on X (<a href="https://x.com/AICappr">@AICappr</a>) <b>before</b> its games tip off,
+as a reply under that day's picks post. The card itself — the actual picks and results below — is published here only
+<b>after</b> the games, so you can check that the fingerprint posted beforehand matches.</p>
+<div class="box"><b>How to check one yourself.</b> You need two files from the same card: the <b>card file</b> and its
+<b>Bitcoin proof</b> (the <code>.ots</code> file) — download both using the links under the card below.
+<ol>
+<li><b>Easiest — just confirm the fingerprint:</b> go to <a href="https://opentimestamps.org">opentimestamps.org</a>,
+and either drag both downloaded files onto the page together, or use its <b>Verify</b> option and attach both when it asks.
+It will show you the file's hash and the Bitcoin block it was timestamped in. That hash must match the SHA-256 shown under
+the card below, and that SHA-256 must match what was posted on X before the games started — proving the pick was locked in
+before anyone knew the result.</li>
+<li><b>Extra — check the hash yourself first:</b> on a Mac or Linux terminal, <code>shasum -a 256 2026-11-09-card1.txt</code>
+(Windows: <code>certutil -hashfile 2026-11-09-card1.txt SHA256</code>) and compare the result to the SHA-256 shown below.</li>
+</ol>
+Each card also includes a random salt, so the fingerprint can't be guessed from the picks alone.</div>
+<div class="card">
+  <div class="chead"><b>2026-11-12-card3</b> <span class="note">2026-11-12</span></div>
+  <ul class="plays"><li>Khaman Maluach u6.5 pts (-105) → 4 ✅</li><li>Naz Reid u20.5 pts (-118) → 16 ✅</li></ul>
+  <div class="hash">SHA-256: <code>632b38f325bf0bb60b2c3ffa2f9e55977173b9612bf6b27db7afe092207e4525</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-12-card3.txt">Download card file</a>
+    <a download href="cards/2026-11-12-card3.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-12-card2</b> <span class="note">2026-11-12</span></div>
+  <ul class="plays"><li>Cooper Flagg u24.5 pts (-108) → 12 ✅</li></ul>
+  <div class="hash">SHA-256: <code>6eb1191533142c12f6c1d8e7823859a88d9850a32dbe45fb88ecfea080e5bc37</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-12-card2.txt">Download card file</a>
+    <a download href="cards/2026-11-12-card2.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-12-card1</b> <span class="note">2026-11-12</span></div>
+  <ul class="plays"><li>Jaylen Brown u23.5 pts (-105) → 18 ✅</li><li>John Collins u13.5 pts (+102) → 10 ✅</li><li>AJ Dybantsa u16.5 pts (-110) → 5 ✅ · closed 20.5</li></ul>
+  <div class="hash">SHA-256: <code>5aa9fe4f98e32ab39dedb0a77307417b29a290966d4c5d271dc0458a56fda6d8</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-12-card1.txt">Download card file</a>
+    <a download href="cards/2026-11-12-card1.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-11-card5</b> <span class="note">2026-11-11</span></div>
+  <ul class="plays"><li>Jase Richardson u7.5 pts (+100) → 6 ✅</li><li>Josh Okogie u5.5 pts (-118) → 7 ❌</li></ul>
+  <div class="hash">SHA-256: <code>08431183baaebac93508fa69584eb60c896d7dc712612069ff9a9d99a35619a4</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-11-card5.txt">Download card file</a>
+    <a download href="cards/2026-11-11-card5.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-11-card4</b> <span class="note">2026-11-11</span></div>
+  <ul class="plays"><li>Brayden Burries u12.5 pts (-106) → 8 ✅ · closed 11.5</li><li>Carter Bryant u5.5 pts (-120) → 10 ❌</li><li>Luke Kornet u4.5 pts (-109) → 7 ❌</li></ul>
+  <div class="hash">SHA-256: <code>56df948a053761753da71c2beaf4f697c8a810f6b98bab298fe2b82759eafe74</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-11-card4.txt">Download card file</a>
+    <a download href="cards/2026-11-11-card4.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-11-card3</b> <span class="note">2026-11-11</span></div>
+  <ul class="plays"><li>Landry Shamet u8.5 pts (-115) → 12 ❌</li></ul>
+  <div class="hash">SHA-256: <code>d6587dc8cc9b21c853e44588a3f6512840eb30da412a065ab6bcd1e54e59a05a</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-11-card3.txt">Download card file</a>
+    <a download href="cards/2026-11-11-card3.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-11-card2</b> <span class="note">2026-11-11</span></div>
+  <ul class="plays"><li>Jordan Walsh u4.5 pts (-105) → 6 ❌</li><li>Derrick White u14.5 pts (-105) → 19 ❌</li><li>AJ Dybantsa u17.5 pts (+100) → 13 ✅</li></ul>
+  <div class="hash">SHA-256: <code>0e1dda0828c1b6a6656647cd97165ec54e7dac6dff4b6853eb64fd6e0c6a2a04</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-11-card2.txt">Download card file</a>
+    <a download href="cards/2026-11-11-card2.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-11-card1</b> <span class="note">2026-11-11</span></div>
+  <ul class="plays"><li>Shai Gilgeous-Alexander u33.5 pts (-120) → 31 ✅ · closed 34.5</li></ul>
+  <div class="hash">SHA-256: <code>36b6fce37f6ef42d16128d35bf1c4c6f6bbeb380c1b07ff1bdf174af26c831da</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-11-card1.txt">Download card file</a>
+    <a download href="cards/2026-11-11-card1.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-10-card6</b> <span class="note">2026-11-10</span></div>
+  <ul class="plays"><li>Isaiah Hartenstein u9.5 pts (-123) → 7 ✅</li></ul>
+  <div class="hash">SHA-256: <code>23c5addead8b0b913868163b81cee9900e7bdac335c329fb157f6a797388c64e</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-10-card6.txt">Download card file</a>
+    <a download href="cards/2026-11-10-card6.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-10-card5</b> <span class="note">2026-11-10</span></div>
+  <ul class="plays"><li>Bennett Stirtz o6.5 pts (-105) → 13 ✅</li></ul>
+  <div class="hash">SHA-256: <code>40c8f7ecda9cfae9a5df2544426f15fe52ac54f24335c8ecf12471b8cc3f790a</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-10-card5.txt">Download card file</a>
+    <a download href="cards/2026-11-10-card5.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-10-card4</b> <span class="note">2026-11-10</span></div>
+  <ul class="plays"><li>Jase Richardson u8.5 pts (-122) → 6 ✅</li></ul>
+  <div class="hash">SHA-256: <code>e6fb3f503534cfae0f68d4ee94132e87e7926320c4f61997e179b70e2df9fad8</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-10-card4.txt">Download card file</a>
+    <a download href="cards/2026-11-10-card4.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-10-card3</b> <span class="note">2026-11-10</span></div>
+  <ul class="plays"><li>Khaman Maluach u6.5 pts (-108) → 11 ❌</li><li>Ace Bailey u17.5 pts (-104) → 23 ❌</li><li>Darryn Peterson u19.5 pts (+104) → 25 ❌</li><li>Rui Hachimura u16.5 pts (-113) → 13 ✅</li></ul>
+  <div class="hash">SHA-256: <code>98d7afb87d392af346ed92f1c83967a0ca8af0e3d0ee1f2689116de5e3dffc67</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-10-card3.txt">Download card file</a>
+    <a download href="cards/2026-11-10-card3.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-10-card2</b> <span class="note">2026-11-10</span></div>
+  <ul class="plays"><li>Anfernee Simons o6.5 pts (+103) → 17 ✅</li></ul>
+  <div class="hash">SHA-256: <code>73fd36c56c36094ac067b9a7c5a4baae70923545c5697ceef1023f76cb3bb49c</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-10-card2.txt">Download card file</a>
+    <a download href="cards/2026-11-10-card2.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-10-card1</b> <span class="note">2026-11-10</span></div>
+  <ul class="plays"><li>Josh Green u8.5 pts (-113) → 2 ✅ · closed 7.5</li></ul>
+  <div class="hash">SHA-256: <code>123339ab1fecbea6eb658254232caa94d611fbf2d1a10f9db24019a533f2fcbd</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-10-card1.txt">Download card file</a>
+    <a download href="cards/2026-11-10-card1.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-09-card6</b> <span class="note">2026-11-09</span></div>
+  <ul class="plays"><li>Khaman Maluach u6.5 pts (-125) → 11 ❌</li></ul>
+  <div class="hash">SHA-256: <code>b2b6214d0964038932f2f6b8b003161dc4d2956350f69d69a63d5e9822a14a3b</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-09-card6.txt">Download card file</a>
+    <a download href="cards/2026-11-09-card6.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-09-card5</b> <span class="note">2026-11-09</span></div>
+  <ul class="plays"><li>DeMar DeRozan o10.5 pts (+100) → 7 ❌ · closed 12.5</li></ul>
+  <div class="hash">SHA-256: <code>a20e33940d32f522e4f4503eb2ee7dd064ffd2930201d97029415f5b845279de</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-09-card5.txt">Download card file</a>
+    <a download href="cards/2026-11-09-card5.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-09-card4</b> <span class="note">2026-11-09</span></div>
+  <ul class="plays"><li>Cooper Flagg u25.5 pts (-115) → 43 ❌ · closed 29.5</li></ul>
+  <div class="hash">SHA-256: <code>70e72a772771b13cf72fcc98ae407f05b645ea33a86eb05f90f31ea170d8f5b1</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-09-card4.txt">Download card file</a>
+    <a download href="cards/2026-11-09-card4.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-09-card3</b> <span class="note">2026-11-09</span></div>
+  <ul class="plays"><li>Ja'Kobe Walter u14.5 pts (-105) → 12 ✅</li></ul>
+  <div class="hash">SHA-256: <code>b4bc3ad9836b7cd197abc0719391905c2ff0c3bb27a2c75df2e97e6e4258d7bc</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-09-card3.txt">Download card file</a>
+    <a download href="cards/2026-11-09-card3.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-09-card2</b> <span class="note">2026-11-09</span></div>
+  <ul class="plays"><li>Allen Graves u7.5 pts (-115) → 3 ✅</li></ul>
+  <div class="hash">SHA-256: <code>49995d60eaada3d391f745775d4760ff86a10b2202f3ee0ee8e7629bfec20456</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-09-card2.txt">Download card file</a>
+    <a download href="cards/2026-11-09-card2.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
+<div class="card">
+  <div class="chead"><b>2026-11-09-card1</b> <span class="note">2026-11-09</span></div>
+  <ul class="plays"><li>Naz Reid u19.5 pts (-112) → 25 ❌</li><li>AJ Dybantsa u16.5 pts (-114) → 21 ❌</li></ul>
+  <div class="hash">SHA-256: <code>87a439ffe153b6e29c0f419249cc2f2680ce543289fa8bf8903bb24582803825</code></div>
+  <div class="dl">
+    <a download href="cards/2026-11-09-card1.txt">Download card file</a>
+    <a download href="cards/2026-11-09-card1.txt.ots">Download Bitcoin proof</a>
+  </div>
+</div>
 <p style="color:#9aa0ad;margin-top:24px">21+ · Gamble responsibly · 1-800-GAMBLER. Past results don't guarantee future results.</p></body></html>
