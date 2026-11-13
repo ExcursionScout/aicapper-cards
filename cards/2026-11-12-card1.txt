@@ -1,0 +1,8 @@
+AICAPPR — OFFICIAL CARD 2026-11-12-card1
+Built: 2026-11-12T23:50:13+00:00
+Salt: 0f67ebf177cbd1b340b483d856b8bfdb
+Model: points v4
+
+#33 | logged 2026-11-12T23:50:13+00:00 | NBA | Jaylen Brown UNDER 23.5 points (-105 @ pinnacle) 1u | model points v4
+#34 | logged 2026-11-12T23:50:13+00:00 | NBA | John Collins UNDER 13.5 points (+102 @ fanduel) 1u | model points v4
+#35 | logged 2026-11-12T23:50:13+00:00 | NBA | AJ Dybantsa UNDER 16.5 points (-110 @ bovada) 1u | model points v4
