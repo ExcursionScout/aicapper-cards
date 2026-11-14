@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-13-card2
+Built: 2026-11-13T23:50:24+00:00
+Salt: 31e9f36b4af9f8779e927e5d76a1d948
+Model: points v4
+
+#40 | logged 2026-11-13T23:50:24+00:00 | NBA | Karl-Anthony Towns UNDER 20.5 points (+109 @ pinnacle) 1u | model points v4
+#41 | logged 2026-11-13T23:50:24+00:00 | NBA | Andre Drummond UNDER 3.5 points (+125 @ betmgm) 1u | model points v4

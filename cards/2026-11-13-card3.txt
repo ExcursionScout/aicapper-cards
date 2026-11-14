@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-13-card3
+Built: 2026-11-14T00:50:15+00:00
+Salt: 8903f41eb719d7ed07db7638ad86de10
+Model: points v4
+
+#42 | logged 2026-11-14T00:50:15+00:00 | NBA | Karlo Matkovic UNDER 6.5 points (+102 @ betrivers) 1u | model points v4
+#43 | logged 2026-11-14T00:50:15+00:00 | NBA | Andrew Wiggins UNDER 11.5 points (-110 @ williamhill_us) 1u | model points v4
