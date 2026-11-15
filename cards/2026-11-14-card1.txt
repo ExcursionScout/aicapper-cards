@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-14-card1
+Built: 2026-11-14T23:50:22+00:00
+Salt: 0af7b794ef423435b7b47577d6da05a6
+Model: points v4
+
+#49 | logged 2026-11-14T23:50:22+00:00 | NBA | Jeremiah Fears UNDER 18.5 points (-105 @ betmgm) 1u | model points v4
+#50 | logged 2026-11-14T23:50:22+00:00 | NBA | Nikola Jokic UNDER 26.5 points (-105 @ betmgm) 1u | model points v4

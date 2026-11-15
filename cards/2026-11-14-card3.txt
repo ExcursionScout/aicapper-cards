@@ -1,0 +1,10 @@
+AICAPPR — OFFICIAL CARD 2026-11-14-card3
+Built: 2026-11-15T00:50:22+00:00
+Salt: 7bba350616277de81888ba6d7c955559
+Model: points v4
+
+#53 | logged 2026-11-15T00:50:21+00:00 | NBA | Julius Randle UNDER 22.5 points (-107 @ draftkings) 1u | model points v4
+#54 | logged 2026-11-15T00:50:21+00:00 | NBA | Rudy Gobert UNDER 10.5 points (-112 @ betrivers) 1u | model points v4
+#55 | logged 2026-11-15T00:50:21+00:00 | NBA | Cameron Boozer UNDER 19.5 points (-115 @ betmgm) 1u | model points v4
+#56 | logged 2026-11-15T00:50:21+00:00 | NBA | Giannis Antetokounmpo UNDER 28.5 points (-104 @ draftkings) 1u | model points v4
+#57 | logged 2026-11-15T00:50:21+00:00 | NBA | Jaden McDaniels UNDER 17.5 points (-102 @ fanduel) 1u | model points v4

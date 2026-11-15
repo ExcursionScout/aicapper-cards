@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-14-card2
+Built: 2026-11-15T00:20:22+00:00
+Salt: 6a32afc4c5caa752e7aab3a20da68e6c
+Model: points v4
+
+#51 | logged 2026-11-15T00:20:21+00:00 | NBA | Craig Porter Jr. UNDER 7.5 points (-108 @ fanduel) 1u | model points v4
+#52 | logged 2026-11-15T00:20:21+00:00 | NBA | Mario Hezonja UNDER 14.5 points (-118 @ draftkings) 1u | model points v4
