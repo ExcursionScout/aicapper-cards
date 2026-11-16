@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-15-card4
+Built: 2026-11-15T21:50:30+00:00
+Salt: 5ceea24835a1342444572c19f62c9f40
+Model: points v4
+
+#61 | logged 2026-11-15T21:50:30+00:00 | NBA | Josh Okogie UNDER 4.5 points (-105 @ bovada) 1u | model points v4
+#62 | logged 2026-11-15T21:50:30+00:00 | NBA | Dylan Harper UNDER 18.5 points (-118 @ betrivers) 1u | model points v4

@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-15-card7
+Built: 2026-11-15T22:50:12+00:00
+Salt: a818bc269685f76c1069cf658661e7f8
+Model: points v4
+
+#65 | logged 2026-11-15T22:50:12+00:00 | NBA | Jayson Tatum UNDER 26.5 points (-108 @ fanduel) 1u | model points v4
+#66 | logged 2026-11-15T22:50:12+00:00 | NBA | Daniel Gafford OVER 7.5 points (-104 @ fanduel) 1u | model points v4
