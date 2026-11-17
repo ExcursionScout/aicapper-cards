@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-16-card2
+Built: 2026-11-17T00:20:23+00:00
+Salt: 43b3178b126a723a23dd76bc4a06439c
+Model: points v4
+
+#73 | logged 2026-11-17T00:20:23+00:00 | NBA | Joel Embiid UNDER 22.5 points (-105 @ betmgm) 1u | model points v4
+#74 | logged 2026-11-17T00:20:23+00:00 | NBA | Dean Wade OVER 5.5 points (-105 @ betmgm) 1u | model points v4

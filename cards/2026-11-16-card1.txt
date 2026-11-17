@@ -1,0 +1,9 @@
+AICAPPR — OFFICIAL CARD 2026-11-16-card1
+Built: 2026-11-16T23:50:24+00:00
+Salt: 90dd4595d8de688d1f0102956c7507c4
+Model: points v4
+
+#69 | logged 2026-11-16T23:50:23+00:00 | NBA | AJ Dybantsa UNDER 16.5 points (-110 @ espnbet) 1u | model points v4
+#70 | logged 2026-11-16T23:50:24+00:00 | NBA | Cameron Boozer UNDER 19.5 points (-118 @ williamhill_us) 1u | model points v4
+#71 | logged 2026-11-16T23:50:24+00:00 | NBA | Jordan Walsh OVER 4.5 points (+100 @ bovada) 1u | model points v4
+#72 | logged 2026-11-16T23:50:24+00:00 | NBA | Derrick White UNDER 13.5 points (-105 @ bovada) 1u | model points v4

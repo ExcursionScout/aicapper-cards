@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-16-card3
+Built: 2026-11-17T00:50:16+00:00
+Salt: 6363b92f000c32636dcb21b354f13106
+Model: points v4
+
+#75 | logged 2026-11-17T00:50:16+00:00 | NBA | Yaxel Lendeborg UNDER 23.5 points (-105 @ espnbet) 1u | model points v4
+#76 | logged 2026-11-17T00:50:16+00:00 | NBA | De'Anthony Melton UNDER 11.5 points (+100 @ betrivers) 1u | model points v4
