@@ -1,0 +1,8 @@
+AICAPPR — OFFICIAL CARD 2026-11-17-card1
+Built: 2026-11-18T00:56:16+00:00
+Salt: 382ce0bea315b4b74fbacc4542b12958
+Model: points v4
+
+#79 | logged 2026-11-18T00:56:16+00:00 | NBA | Victor Wembanyama UNDER 28.5 points (-107 @ draftkings) 1u | model points v4
+#80 | logged 2026-11-18T00:56:16+00:00 | NBA | Javonte Green UNDER 7.5 points (-120 @ bovada) 1u | model points v4
+#81 | logged 2026-11-18T00:56:16+00:00 | NBA | Terrence Shannon Jr. UNDER 14.5 points (-110 @ draftkings) 1u | model points v4
