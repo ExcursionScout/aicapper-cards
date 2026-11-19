@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-18-card5
+Built: 2026-11-19T02:56:13+00:00
+Salt: 1951bbf1cb69a5b6522ba7cee2dbd90f
+Model: points v4
+
+#89 | logged 2026-11-19T02:56:13+00:00 | NBA | Josh Okogie UNDER 5.5 points (+103 @ williamhill_us) 1u | model points v4
+#90 | logged 2026-11-19T02:56:13+00:00 | NBA | Jake LaRavia UNDER 5.5 points (-109 @ williamhill_us) 1u | model points v4

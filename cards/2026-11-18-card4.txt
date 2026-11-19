@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-18-card4
+Built: 2026-11-19T00:56:16+00:00
+Salt: 659422f75dcb8d793b39af034477102e
+Model: points v4
+
+#87 | logged 2026-11-19T00:56:16+00:00 | NBA | Yaxel Lendeborg UNDER 23.5 points (+102 @ williamhill_us) 1u | model points v4
+#88 | logged 2026-11-19T00:56:16+00:00 | NBA | Cooper Flagg UNDER 23.5 points (+100 @ fanduel) 1u | model points v4
