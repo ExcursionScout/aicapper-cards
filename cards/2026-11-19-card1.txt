@@ -1,0 +1,8 @@
+AICAPPR — OFFICIAL CARD 2026-11-19-card1
+Built: 2026-11-20T00:56:10+00:00
+Salt: a19fae51e3e88d605aa731a3c19bcb6f
+Model: points v4
+
+#91 | logged 2026-11-20T00:56:10+00:00 | NBA | Al Horford UNDER 5.5 points (+102 @ betrivers) 1u | model points v4
+#92 | logged 2026-11-20T00:56:10+00:00 | NBA | Yaxel Lendeborg UNDER 22.5 points (-106 @ draftkings) 1u | model points v4
+#93 | logged 2026-11-20T00:56:10+00:00 | NBA | Keldon Johnson UNDER 11.5 points (-110 @ betmgm) 1u | model points v4
