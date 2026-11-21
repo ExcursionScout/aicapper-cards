@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-20-card1
+Built: 2026-11-21T00:26:12+00:00
+Salt: f4fdcc6e67a65d478cf8cd1df29c83ff
+Model: points v4
+
+#94 | logged 2026-11-21T00:26:12+00:00 | NBA | Meleek Thomas OVER 10.5 points (+104 @ fanduel) 1u | model points v4
+#95 | logged 2026-11-21T00:26:12+00:00 | NBA | Egor Demin UNDER 9.5 points (-105 @ fanatics) 1u | model points v4

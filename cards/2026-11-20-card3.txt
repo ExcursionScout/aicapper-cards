@@ -1,0 +1,9 @@
+AICAPPR — OFFICIAL CARD 2026-11-20-card3
+Built: 2026-11-21T02:56:12+00:00
+Salt: 0668de8e4d601b75d3b8bfef4c64fb7d
+Model: points v4
+
+#97 | logged 2026-11-21T02:56:12+00:00 | NBA | Jake LaRavia UNDER 6.5 points (-108 @ draftkings) 1u | model points v4
+#98 | logged 2026-11-21T02:56:12+00:00 | NBA | Reed Sheppard OVER 6.5 points (-120 @ betrivers) 1u | model points v4
+#99 | logged 2026-11-21T02:56:12+00:00 | NBA | Ziaire Williams OVER 8.5 points (+106 @ fanduel) 1u | model points v4
+#100 | logged 2026-11-21T02:56:12+00:00 | NBA | Marcus Smart OVER 5.5 points (+106 @ fanduel) 1u | model points v4
