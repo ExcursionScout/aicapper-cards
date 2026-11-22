@@ -1,0 +1,9 @@
+AICAPPR — OFFICIAL CARD 2026-11-21-card2
+Built: 2026-11-22T00:56:10+00:00
+Salt: 85671077526356727b6c5275ae254b65
+Model: points v4
+
+#102 | logged 2026-11-22T00:56:10+00:00 | NBA | Kris Dunn UNDER 5.5 points (-115 @ betmgm) 1u | model points v4
+#103 | logged 2026-11-22T00:56:10+00:00 | NBA | Stephon Castle UNDER 17.5 points (-102 @ draftkings) 1u | model points v4
+#104 | logged 2026-11-22T00:56:10+00:00 | NBA | LaMelo Ball UNDER 20.5 points (-105 @ betmgm) 1u | model points v4
+#105 | logged 2026-11-22T00:56:10+00:00 | NBA | Keldon Johnson UNDER 11.5 points (-113 @ fanduel) 1u | model points v4

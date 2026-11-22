@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-21-card3
+Built: 2026-11-22T02:56:09+00:00
+Salt: 68a0ce2bca2ba8b13f8a2192335c20cd
+Model: points v4
+
+#106 | logged 2026-11-22T02:56:09+00:00 | NBA | Paul George UNDER 24.5 points (-109 @ betrivers) 1u | model points v4
+#107 | logged 2026-11-22T02:56:09+00:00 | NBA | Baylor Scheierman UNDER 8.5 points (-110 @ betrivers) 1u | model points v4
