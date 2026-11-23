@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-22-card1
+Built: 2026-11-22T22:56:13+00:00
+Salt: 9ac15df9c2de67130e7345d2e9325965
+Model: points v4
+
+#108 | logged 2026-11-22T22:56:13+00:00 | NBA | Pelle Larsson UNDER 11.5 points (+145 @ betmgm) 1u | model points v4
+#109 | logged 2026-11-22T22:56:13+00:00 | NBA | Ajay Mitchell UNDER 24.5 points (-106 @ fanduel) 1u | model points v4

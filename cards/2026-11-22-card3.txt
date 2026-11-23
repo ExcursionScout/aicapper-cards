@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-22-card3
+Built: 2026-11-23T01:26:13+00:00
+Salt: 4f676caa68b07c7d25865dbc625e3df8
+Model: points v4
+
+#111 | logged 2026-11-23T01:26:13+00:00 | NBA | Gui Santos UNDER 7.5 points (+118 @ betrivers) 1u | model points v4
+#112 | logged 2026-11-23T01:26:13+00:00 | NBA | Luka Garza UNDER 7.5 points (-125 @ betmgm) 1u | model points v4
