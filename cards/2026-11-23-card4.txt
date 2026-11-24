@@ -1,0 +1,9 @@
+AICAPPR — OFFICIAL CARD 2026-11-23-card4
+Built: 2026-11-24T02:56:12+00:00
+Salt: 286ce578a9e6433936199064e8ca0b85
+Model: points v4
+
+#116 | logged 2026-11-24T02:56:12+00:00 | NBA | Quentin Grimes UNDER 16.5 points (-101 @ draftkings) 1u | model points v4
+#117 | logged 2026-11-24T02:56:12+00:00 | NBA | Carter Bryant UNDER 7.5 points (-113 @ draftkings) 1u | model points v4
+#118 | logged 2026-11-24T02:56:12+00:00 | NBA | Walker Kessler UNDER 13.5 points (+100 @ draftkings) 1u | model points v4
+#119 | logged 2026-11-24T02:56:12+00:00 | NBA | Keegan Murray UNDER 12.5 points (-108 @ betrivers) 1u | model points v4
