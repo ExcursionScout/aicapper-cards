@@ -1,0 +1,7 @@
+AICAPPR — OFFICIAL CARD 2026-11-25-card2
+Built: 2026-11-26T02:56:16+00:00
+Salt: 1633b8fbc37fdb2925268ded3e3ad616
+Model: points v4
+
+#123 | logged 2026-11-26T02:56:16+00:00 | NBA | Yaxel Lendeborg UNDER 21.5 points (-110 @ betrivers) 1u | model points v4
+#124 | logged 2026-11-26T02:56:16+00:00 | NBA | Malik Monk UNDER 10.5 points (-104 @ williamhill_us) 1u | model points v4
