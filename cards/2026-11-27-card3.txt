@@ -1,0 +1,10 @@
+AICAPPR — OFFICIAL CARD 2026-11-27-card3
+Built: 2026-11-28T02:26:18+00:00
+Salt: 0d64bbf9859135b10f6eb6de6e105a69
+Model: points v4
+
+#127 | logged 2026-11-28T02:26:17+00:00 | NBA | Collin Sexton OVER 7.5 points (-102 @ fanduel) 1u | model points v4
+#128 | logged 2026-11-28T02:26:17+00:00 | NBA | Brice Sensabaugh OVER 10.5 points (-106 @ fanduel) 1u | model points v4
+#129 | logged 2026-11-28T02:26:17+00:00 | NBA | Jordan Poole OVER 11.5 points (-106 @ fanduel) 1u | model points v4
+#130 | logged 2026-11-28T02:26:17+00:00 | NBA | Yaxel Lendeborg UNDER 18.5 points (-103 @ draftkings) 1u | model points v4
+#131 | logged 2026-11-28T02:26:17+00:00 | NBA | Jaxson Hayes UNDER 7.5 points (+105 @ hardrockbet) 1u | model points v4
